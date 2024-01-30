@@ -1,0 +1,41 @@
+* {
+    background-color:blanchedalmond;
+}
+
+/* Header */
+h1 {
+    color: aqua;
+}
+p{
+    background-color: rgb(63, 94, 94);
+    width: 80%;
+}
+.container p {
+    color: red;
+    width: 150px;
+    outline: 1px solid red;
+}
+
+.SecondePTag {
+    background-color: bisque;
+    text-align: center;
+    outline: 1px solid red;
+}
+a {
+    text-decoration: none;
+}
+
+#thirdH1 {
+    width: 500px;
+    height: 100px;
+    color: brown;
+    outline: 1px solid red;
+    text-align: right;
+
+}
+
+.container {
+    outline: 1px solid red;
+}
+
+/* Id : 100 > Class : 10 > Tags/elements : 1 */
